@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lê Nguyễn Đình Nguyên </h1>
 <h3 align="center">A Java backend developer | Looking for a Java backend internship</h3>
 
+![fireship-java-java](https://github.com/dinhnguyen1812002/dinhnguyen1812002/assets/88964296/5851a8cb-5a8b-4215-be2a-14b0aca7fb01)
+
 <br> Education<br><br>I am currently pursuing my degree in Computer Science, where I've gained a solid foundation in programming concepts and software development principles. My coursework has provided me with a strong understanding of data structures, algorithms, and object-oriented programming, which I apply to my projects.<br><br><br> Skills<br><br>- Java Development:  Proficient in Java programming language, with a focus on backend development using frameworks like Spring Boot.<br>- Database Management: Experience working with SQL databases such as MySQL, and MongoDB.<br>- Version Control: Familiar with Git for version control and collaboration on projects.<br>- Problem Solving: Skilled in identifying and solving complex problems efficiently.<br>- Continuous Learning: Committed to staying updated with the latest technologies and best practices in software development.<br>
 
 
