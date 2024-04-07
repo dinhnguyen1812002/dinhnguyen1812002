@@ -29,7 +29,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dinhnguyen1812002&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dinhnguyen1812002&label=https%3A%2F%2Fgithub.com%2Fdinhnguyen1812002&color=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
