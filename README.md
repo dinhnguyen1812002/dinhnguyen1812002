@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lê Nguyễn Đình Nguyên </h1>
 <h3 align="center">A Java developer</h3>
 
-![fireship-java-java](https://github.com/dinhnguyen1812002/dinhnguyen1812002/assets/88964296/5851a8cb-5a8b-4215-be2a-14b0aca7fb01)
+
 
 
 
