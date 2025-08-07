@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lê Nguyễn Đình Nguyên </h1>
-<h3 align="center">A Java developer</h3>
-
-
-
-
+<h3 align="center">A Backend developer</h3>
 
 
 ## 🌐 Socials:
