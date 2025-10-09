@@ -36,7 +36,6 @@ Ngoài Java, tôi còn có kinh nghiệm làm việc với các ngôn ngữ và 
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhnguyen1812002&theme=aura" alt="Profile Details">
-    
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinhnguyen1812002&theme=aura" alt="GitHub Stats">
 </p>
 
