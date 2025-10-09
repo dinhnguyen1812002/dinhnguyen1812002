@@ -11,6 +11,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhnguyen1812002&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinhnguyen1812002&theme=aura) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
