@@ -1,7 +1,6 @@
 <div align="center">
   
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=298645019063461008" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
-
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="60%" alt="Coding GIF"/>
 <br>
 
 # Lê Nguyễn Đình Nguyên
