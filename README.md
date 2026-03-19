@@ -1,50 +1,198 @@
-<h1 align="center">Xin chào 👋, Tôi là Lê Nguyễn Đình Nguyên</h1>
-<h3 align="center">**Kỹ sư Phát triển Backend** | **Tập trung vào Java & Hệ sinh thái Spring**</h3>
+<div align="center">
 
-Tôi là một lập trình viên Backend nhiệt huyết với kinh nghiệm xây dựng các ứng dụng web mạnh mẽ, hiệu suất cao và có khả năng mở rộng. Tôi chuyên sâu về **Java** và hệ sinh thái **Spring Boot**, đồng thời có sự quan tâm lớn đến việc phát triển API sạch, bảo mật và dễ bảo trì.
+```
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
+```
 
----
+# Lê Nguyễn Đình Nguyên
 
-## 🛠️ Bộ Kỹ Năng Công Nghệ
+**`Backend Engineer`** · **`Java & Spring Ecosystem`** · **`API Craftsman`**
 
-### ☕ Công Nghệ Backend Chính (Java Ecosystem)
-Là một Developer Backend, đây là những công cụ tôi sử dụng thường xuyên nhất để xây dựng các giải pháp cốt lõi:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Building+robust+%26+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+RESTful+APIs;Clean+code+advocate+%26+API+security+enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
-| Category | Skills |
-| :--- | :--- |
-| **Framework/Runtime** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![spring boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![RESTfulAPI](https://img.shields.io/badge/RESTful%20API-black?style=for-the-badge) |
-| **ORM/Persistence** | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |
-| **Security/Auth** | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) |
-| **Deployment/Hosting** | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) |
-| **Templating** | ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) |
-
-### 🌐 Ngôn Ngữ & Framework Khác (Secondary Skills)
-Ngoài Java, tôi còn có kinh nghiệm làm việc với các ngôn ngữ và framework sau:
-
-* **Ngôn ngữ**: ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* **Frameworks**: ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-* **Frontend**: ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-* **Database/Tools**: ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-## 📈 Thống kê GitHub
+## 👨‍💻 Về tôi
 
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
+Tôi là một **Backend Developer** với niềm đam mê xây dựng các hệ thống mạnh mẽ, hiệu suất cao và dễ bảo trì. Hành trình của tôi xoay quanh hệ sinh thái **Java & Spring Boot** — nơi tôi tập trung vào việc tạo ra những API sạch, bảo mật và có khả năng mở rộng thực sự.
 
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhnguyen1812002&theme=aura" alt="Profile Details">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinhnguyen1812002&theme=aura" alt="GitHub Stats">
-</p>
+```java
+@Component
+public class DinhNguyen implements BackendEngineer {
+
+    @Override
+    public String getCurrentFocus() {
+        return "Building scalable REST APIs with Spring Boot";
+    }
+
+    @Override
+    public List<String> getPassions() {
+        return List.of(
+            "Clean Architecture",
+            "API Security (JWT, OAuth2)",
+            "Performance Optimization",
+            "Database Design"
+        );
+    }
+
+    @Override
+    public String getMotivation() {
+        return "Code that is easy to read is code that lasts.";
+    }
+}
+```
 
 ---
 
-## 🤝 Kết nối với tôi
+## 🛠️ Bộ Kỹ Năng
 
-Hãy cùng nhau xây dựng một điều gì đó tuyệt vời!
+### ☕ Backend Chính — Java Ecosystem
 
-* 📧 **Email**: [Liên hệ qua Email của tôi]
-* 🔗 **LinkedIn**: [Link đến LinkedIn của bạn]
-* 🔭 **Khám phá các dự án của tôi** trên các repository ở bên dưới!
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/>
+      <br><strong>Spring Boot</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MSSQL"/>
+      <br><strong>SQL Server</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx"/>
+      <br><strong>Nginx</strong>
+    </td>
+  </tr>
+</table>
+
+| Nhóm | Công nghệ |
+|:---|:---|
+| **Framework** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA |
+| **ORM / DB** | Hibernate, MySQL, Microsoft SQL Server |
+| **Security** | JWT, Spring Security |
+| **Templating** | Thymeleaf |
+| **Deployment** | Nginx, GitHub Pages |
+| **API Style** | RESTful API Design |
+
+---
+
+### 🌐 Kỹ Năng Bổ Sung
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
+      <br>Go
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+      <br>C#
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
+      <br>.NET
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
+      <br>Laravel
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
+      <br>Vue.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+      <br>Express
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600"/>
+
+<br><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinhnguyen1812002&theme=aura" alt="Profile Details" width="700"/>
+
+<br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinhnguyen1812002&theme=aura" alt="GitHub Stats" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinhnguyen1812002&theme=aura" alt="Repos Per Language" height="180"/>
+
+</div>
+
+---
+
+## 🏗️ Định hướng & Mục tiêu
+
+```
+[✔] Thành thạo Spring Boot & RESTful API Design
+[✔] Xây dựng hệ thống xác thực với JWT
+[✔] Deploy ứng dụng với Nginx
+[→] Đào sâu về Microservices Architecture
+[→] Nghiên cứu Spring Cloud & Kafka
+[→] Cải thiện kỹ năng System Design
+[ ] Contribute cho Open Source projects
+```
+
+---
+
+## 🤝 Kết Nối
+
+<div align="center">
+
+Tôi luôn sẵn sàng kết nối, cộng tác và cùng nhau xây dựng những thứ thú vị!
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinhnguyen1812002)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dinhnguyen1812002&color=6DB33F&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ <em>"First, solve the problem. Then, write the code."</em> — John Johnson</sub>
+</div>
