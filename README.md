@@ -1,12 +1,12 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="60%" alt="Coding GIF"/>
+  
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=298645019063461008" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
 <br>
 
 # Lê Nguyễn Đình Nguyên
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=298645019063461008" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Backend+Engineer;Polyglot+Developer+%7C+Right+tool+for+the+right+job;API+Design+%7C+System+Architecture;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
