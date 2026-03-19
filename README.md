@@ -14,7 +14,6 @@
 **`Backend Engineer`** · **`API Craftsman`** · **`Scalable Systems Builder`**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+APIs+%7C+Databases+%7C+Systems;Designing+clean%2C+secure+%26+scalable+backends;Polyglot+developer+—+right+tool+for+the+right+job;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
 
 ---
