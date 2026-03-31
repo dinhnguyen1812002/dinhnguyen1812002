@@ -146,9 +146,10 @@ available_for_coffee_chat: true
 
 | Channel | Handle |
 |---------|--------|
-| 📧 Email | [your-email@gmail.com](mailto:your-email@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 📧 Email | [dinhnguyen1812002@gmail.com](mailto:dinhnguyen1812002@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/le-nguyen-dinh-nguyen](https://www.linkedin.com/in/le-nguyen-dinh-nguyen/) |
 | 🐙 GitHub | [@dinhnguyen1812002](https://github.com/dinhnguyen1812002) |
+| 🐙 portfolio | [nguyen-alt-dev.io.vn](https://nguyen-alt-dev.io.vn/) |
 
 <br/>
 
